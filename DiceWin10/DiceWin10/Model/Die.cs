@@ -8,6 +8,7 @@ namespace DiceGame
 {
     public class Die
     {
+        // ONE change
         // instance variables - replace the example below with your own
         private int faceValue;
         private Random r;
